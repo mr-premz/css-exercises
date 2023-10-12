@@ -1,0 +1,20 @@
+.odd_class{
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+
+#element_two{
+    color: blue;
+    font-size: 32px;
+}
+
+.odd_class.element_three{
+    font-size: 24px;
+}
+
+.element_four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
